@@ -5,10 +5,10 @@ DocMeta.setdocmeta!(LocalErgotropy, :DocTestSetup, :(using LocalErgotropy); recu
 
 makedocs(;
     modules=[LocalErgotropy],
-    authors="Federico Cerisola",
+    authors="Federico Cerisola <federico@cerisola.net>",
     sitename="LocalErgotropy.jl",
     format=Documenter.HTML(;
-        canonical="https://cerisola.github.io/LocalErgotropy.jl",
+        canonical="https://quantum-exeter.github.io/LocalErgotropy.jl",
         edit_link="main",
         assets=String[],
     ),
@@ -18,6 +18,6 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/cerisola/LocalErgotropy.jl",
+    repo="github.com/quantum-exeter/LocalErgotropy.jl",
     devbranch="main",
 )
