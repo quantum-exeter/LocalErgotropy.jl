@@ -1,3 +1,6 @@
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 LocalErgotropy = "a5748edc-c418-4301-944b-2624e769340a"
+
+[compat]
+Documenter = "1.17.0"
