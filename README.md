@@ -16,11 +16,7 @@ manifold.
 The package also provides methods to compute the total ergotropy using the known
 analytical solutions for this case.
 
----
-**_NOTE:_**
+NOTE: while `MKL.jl` is not a dependency of this package, it is recommended to
+install it and try using it (import it before importing `LocalErgotropy`),
+since in most scenarios it will accelerate the linear algebra calculations.
 
-While `MKL.jl` is not a dependency of this package, it is
-recommended to install it and try using it (import it before importing
-`LocalErgotropy`), since in most scenarios it
-will accelerate the linear algebra calculations.
----
