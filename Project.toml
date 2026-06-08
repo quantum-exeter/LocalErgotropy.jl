@@ -1,6 +1,6 @@
 name = "LocalErgotropy"
 uuid = "a5748edc-c418-4301-944b-2624e769340a"
-version = "1.0.0-DEV"
+version = "1.0.0"
 authors = ["Federico Cerisola"]
 
 [deps]
