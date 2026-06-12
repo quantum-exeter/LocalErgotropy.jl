@@ -3,6 +3,7 @@
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://quantum-exeter.github.io/LocalErgotropy.jl/stable/)
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://quantum-exeter.github.io/LocalErgotropy.jl/dev/)
 [![Build Status](https://github.com/quantum-exeter/LocalErgotropy.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/quantum-exeter/LocalErgotropy.jl/actions/workflows/CI.yml?query=branch%3Amain)
+[![DOI](https://zenodo.org/badge/1262703066.svg)](https://doi.org/10.5281/zenodo.20660781)
 
 `LocalErgotropy.jl` is a Julia package to compute the local ergotropy of a
 quantum system, that is the maximum amount of work that can be extracted from a
